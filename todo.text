@@ -1,11 +1,12 @@
-USED TOOLS :
-    VS Code
-    XAMPP
-    MySQL
+TOOLS :
+    * VS Code
+    * XAMPP
+    * MySQL
 
 STEPS:
-1. CREATE DATABASE 
-2. CONNECT CREATED DATABASE WITH XAMPP 
+    1. CREATE DATABASE 
+    2. CONNECT CREATED DATABASE WITH XAMPP 
+
 
 CREATE A POS DATABASE TABLE WITH RELATIONSHIP
     TABLE SEQUENCE= "users" -> "categories" -> "products" -> "customers" -> "invoice" -> "invoice_products"
